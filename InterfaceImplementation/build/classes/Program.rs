@@ -1,0 +1,10 @@
+Client1
+Client2
+Program
+interfaceimplementation.InterfaceImplementation
+Satellite
+FibreOptic
+Client3
+interfaceimplementation.Client
+interfaceimplementation.Satellite
+Communication
